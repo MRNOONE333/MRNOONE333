@@ -1,5 +1,6 @@
-### Hi there 👋
+### I am a  👋
 
+## currently on my 100.00🙃 days of code
 [![GitHub Streak](https://streak-stats.demolab.com?user=MRNOONE333&theme=terafox)]
 
 (https://git.io/streak-stats)
