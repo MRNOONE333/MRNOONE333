@@ -1,7 +1,7 @@
 ### I am a  ![image](https://github.com/MRNOONE333/MRNOONE333/assets/104716575/2defe093-8bad-48bf-bda4-9619edf23a9d)
 👋
 
-### currently on my 100.00🙃 days of code
+### Started with 100.00🙃 days of code
 [![GitHub Streak](https://streak-stats.demolab.com?user=MRNOONE333&theme=terafox)]
 
 
