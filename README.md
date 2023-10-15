@@ -1,4 +1,4 @@
-### Anothe random human trying not to prove something
+### Anothe random human trying not to prove anything
 
 ### Started with 100.00🙃 days of code
 [![GitHub Streak](https://streak-stats.demolab.com?user=MRNOONE333&theme=terafox)]
