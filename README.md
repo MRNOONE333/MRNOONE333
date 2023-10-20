@@ -1,9 +1,23 @@
-### Anothe random human trying not to prove anything
+<h3 align='center'><code>Hello Everyone! 👋<br/></code></h3>
+<h3 align='center'><code>Welcome to my GitHub Space! <br/></code></h3>
 
-### Started with 100.00🙃 days of code
+<h2 align='center'><code> Started with 100.00🙃 days of code <br/></code></h2>
+
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=MRNOONE333&theme=terafox)
 
 
+<p align="center">
+<!--   <a href="https://www.linkedin.com/in/hritam-basak-a66114166/">
+    <img align="center" alt="Hritam's LinkedIN" height="30px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>&ensp;
+  <a href="https://scholar.google.com/citations?user=29wTOh4AAAAJ&hl=en">
+    <img align="center" alt="Hritam Basak | Google Scholar" height="30px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />
+  </a>&ensp; -->
+  <img height="20" align='center' src="https://visitor-badge.laobi.icu/badge?page_id=hritam-98" alt="visitor badge"/>
+</p>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://www.linkedin.com/in/hritam-basak-a66114166/">reach out</a> and introduce yourself (don’t just say hi, tell me about yourself)</b> 😊 💜</em>
 
 <!--
 **MRNOONE333/MRNOONE333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
