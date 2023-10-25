@@ -3,9 +3,9 @@
 
 <h2 align='center'><code> Started with 100.00🙃 days of code <br/></code></h2>
 
-<div style="text-align:center">
+
     ![GitHub Streak](https://streak-stats.demolab.com?user=MRNOONE333&theme=terafox)
-</div>
+
 
 
 
