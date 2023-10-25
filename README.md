@@ -3,8 +3,8 @@
 
 <h2 align='center'><code> Started with 100.00🙃 days of code <br/></code></h2>
 
+<center>![GitHub Streak](https://streak-stats.demolab.com?user=MRNOONE333&theme=terafox)</center>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MRNOONE333&theme=terafox)
 
 
 <p align="center">
