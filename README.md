@@ -2,11 +2,10 @@
 <h3 align='center'><code>Welcome to my GitHub Space! <br/></code></h3>
 
 
-<center>
+<div style="text-align: center;">
+    <img src="https://streak-stats.demolab.com?user=MRNOONE333&theme=terafox" alt="GitHub Streak">
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MRNOONE333&theme=terafox)
-
-</center>
 
 
 
