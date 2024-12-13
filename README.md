@@ -1,8 +1,8 @@
 <h3 align='center'><code>Hello  Everyone! 👋<br/></code></h3>
 <h3 align='center'><code>Welcome to my GitHub Space! <br/></code></h3>
-<h3 align="center"><code>I have completed 100 days of code, then 150 days of code <br> <strong>6 months of continuous coding</strong> 🚀</code></h3>
+<h3 align="center"><code>I have completed 100 days of code challange </h3>
 
-<h3 align='center'><code>I am currently on my 200 days of code  <br/></code></h3>
+<h3 align='center'><code>Highest streak!! 6 months of continuous coding<br/></code></h3>
 
 
 
